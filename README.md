@@ -49,4 +49,4 @@ gcc main.c predio.c -o predio
 Ao rodar o programa, um menu numerado é exibido no terminal. Basta digitar o número da opção desejada e seguir as instruções (informar andar, unidade e/ou quantidade de moradores quando solicitado).
 
 ---
-Projeto desenvolvido como parte da disciplina de Programação (linguagem C) do curso de Análise e Desenvolvimento de Sistemas.
+Projeto desenvolvido como parte da disciplina de Estrutura de Dados 1(linguagem C) do curso de Análise e Desenvolvimento de Sistemas.
