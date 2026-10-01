@@ -78,7 +78,7 @@ int informarQuantidadeAPComMorador(int predio[][8]){
 			return qntdApartamentosComMoradores;
 }
 
-void informarEImprimirUnidadesMaxEMin(int predio[][8], int nMoradores, int qntdMinima, int qntdMaxima){
+void informarEImprimirUnidadesMaxEMin(int predio[][8], int qntdMinima, int qntdMaxima){
 			int qntdApartamentos = 0;
 			for(int i = 0; i < 20; i++){
 				for(int j = 0; j < 8; j++){
