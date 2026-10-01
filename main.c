@@ -68,7 +68,7 @@ int main()
 			scanf("%d", &qntdMinima);
 			printf("\nDigite a quantidade maxima de moradores: ");
 			scanf("%d", &qntdMaxima);
-			informarEImprimirUnidadesMaxEMin(predio, nMoradores, qntdMinima, qntdMaxima);
+			informarEImprimirUnidadesMaxEMin(predio, qntdMinima, qntdMaxima);
 			break;
 		case 11:
 			printf("Saindo do programa...\n");
