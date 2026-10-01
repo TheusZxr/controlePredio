@@ -10,4 +10,4 @@ void imprimirApartamentosVazios(int predio[][8]);
 void imprimirNumeroMoradoresPorAndar(int predio[][8]);
 void imprimirApartamentoMaiorNumeroMoradores(int predio[][8]);
 int informarQuantidadeAPComMorador(int predio[][8]);
-void informarEImprimirUnidadesMaxEMin(int predio[][8], int nMoradores, int qntdMinima, int qntdMaxima);
+void informarEImprimirUnidadesMaxEMin(int predio[][8], int qntdMinima, int qntdMaxima);
